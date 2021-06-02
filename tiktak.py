@@ -60,7 +60,7 @@ def display(point):
     if(point==p1):
         print("-----------------------------")
         print("-----------------------------")
-        print("Hurrah player1 is winnner!!!!")
+        print("Hurrah player1 is winnner!!!")
         print("-----------------------------")
         print("-----------------------------")
     else:
