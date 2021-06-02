@@ -110,7 +110,7 @@ if __name__ == "__main__":
                     break
             else:
                 p(x)
-                print("Invalid numberaa")
+                print("Invalid number")
         else:
             value = str(input("PLAYER-2 Enter a number: "))
             if find(x,value):
